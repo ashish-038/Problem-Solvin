@@ -1,7 +1,4 @@
-priority_queue<T> pq;
-Features:
-  - Max heap tree.
-  - Keeps the maximum value on top of the Tree.
+
 
 Commonly used Member functions:
   - size()
